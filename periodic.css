@@ -1,0 +1,89 @@
+ .yellow {
+    background: linear-gradient(to bottom, #fff700, #ffd000);
+    color: black;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+ .blue {
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    color: black;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+/* Purple */
+.purple {
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    color: black;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+/* Pink */
+.pink {
+    background: linear-gradient(to right, #ff416c, #ff4b2b);
+    color: black;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+/* Green */
+.green {
+    background: linear-gradient(to right, #11998e, #38ef7d);
+    color: black;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+/* Orange */
+.orange {
+    background: linear-gradient(to right, #ff8008, #ffc837);
+    color: black;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+
+/* Red */
+.red {
+    background: linear-gradient(to right, #f00000, #dc281e);
+    color: black;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+/* Sky Blue */
+.sky-blue {
+    background: linear-gradient(to right, #56ccf2, #2f80ed);
+    color: white;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+/* Black */
+.black {
+    background: linear-gradient(to right, #232526, #414345);
+    color: white;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  .gray {
+    background: linear-gradient(to right, #62676a, #000000);
+    color: #F59E0B;
+    padding: 50px;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    line-height: 40px;
+}
+.bottom-box {
+  margin-left: auto;}
